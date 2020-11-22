@@ -1,5 +1,5 @@
 # Huffman-Decoder
-#
+/*
 Title:			Huffman Decoder
 Date:		    09.06.18 
 Author:		    Liad Oz
@@ -19,3 +19,4 @@ Description:
                 1) Tree memory must contain '@' char.
                 2) At the end of each encoded string must be '@' char.
                 3) Bit encode won't encode if one or more chars will be encoded to null.
+                */
