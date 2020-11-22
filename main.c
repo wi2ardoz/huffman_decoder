@@ -1,7 +1,7 @@
 /*
-    Title:			Huffman Decoder
-    Date:		    09.06.18
-    Author:		    Liad Oz
+    Title:		Huffman Decoder
+    Date:		09.06.18
+    Author:		Liad Oz
     Description:
                     FUNCTIONS
                     ---------
