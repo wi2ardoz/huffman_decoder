@@ -2,7 +2,6 @@
 	Title:			Assignment #4
 	Date:		    09.06.18
 	Author:		    Liad Oz
-	ID:				308223650
 	Description:
 					FUNCTIONS
 					---------
