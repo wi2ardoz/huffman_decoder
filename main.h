@@ -1,5 +1,5 @@
 /*
-	Title:			Assignment #4
+	Title:		    Assignment #4
 	Date:		    09.06.18
 	Author:		    Liad Oz
 	Description:
@@ -19,6 +19,7 @@
 					2) At the end of each encoded string must be '@' char.
 					3) Bit encode won't encode if one or more chars will be encoded to null.
  */
+
 // include
 #include <stdio.h>
 #include <stdlib.h>
