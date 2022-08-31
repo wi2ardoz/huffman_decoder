@@ -1,11 +1,8 @@
 # Huffman-Decoder
 
-Title:		    Huffman Decoder
-Date:		      09.06.18 
-Author:		    Liad Oz
-Description:
+Huffman Decoder
                 
-## FUNCTIONS
+## Functionality
 
 This program creates huffman tree by given database of chars and
 it capable of the following operations:
