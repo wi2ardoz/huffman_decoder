@@ -1,11 +1,14 @@
 # Huffman-Decoder
 
-Huffman Decoder
-                
+## Introduction
+
+Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression.
+
 ## Functionality
 
 This program creates huffman tree by given database of chars and
 it capable of the following operations:
+
 option 1 => encode text using the Huffman Tree
 option 2 => bit-encode text using the Huffman Tree
 option 3 => decode using the Huffman Tree
