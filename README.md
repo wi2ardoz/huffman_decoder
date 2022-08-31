@@ -1,4 +1,4 @@
-# Huffman-Decoder
+# Huffman Compression
 
 ## Introduction
 
@@ -9,14 +9,14 @@ Huffman code is a particular type of optimal prefix code that is commonly used f
 This program creates huffman tree by given database of chars and
 it capable of the following operations:
 
-option 1 => encode text using the Huffman Tree
-option 2 => bit-encode text using the Huffman Tree
-option 3 => decode using the Huffman Tree
-option 4 => bit-decode using the Huffman Tree
-option 5 => serialize the Huffman Tree / printing the leaves
+1. Encode text using the Huffman Tree
+2. Bit-encode text using the Huffman Tree
+3. Decode using the Huffman Tree
+4. Bit-decode using the Huffman Tree
+5. Serialize the Huffman Tree / printing the leaves
 
 ## NOTES
 
-1) Tree memory must contain '@' char.
-2) At the end of each encoded string must be '@' char.
-3) Bit encode won't encode if one or more chars will be encoded to null.
+* Tree memory must contain '@' char.
+* At the end of each encoded string must be '@' char.
+* Bit encode won't encode if one or more chars will be encoded to null.
